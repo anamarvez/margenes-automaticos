@@ -1,0 +1,29 @@
+body {
+  width: 2000px;
+  border: solid black;
+  border-width: 3px;
+
+
+}
+
+
+#parrafo1 {
+  	width: 200px;
+  	margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  	padding: 60px;
+  	border: solid yellow;
+  	border-width: 20px;
+  	text-align: center;
+}
+
+#parrafo2 {
+  	width: 200px;
+  	margin-bottom: 80px;
+  	margin-left: 700px;
+  	padding: 60px;
+  	border: solid yellow;
+  	border-width: 20px;
+  	text-align: left;
+}
